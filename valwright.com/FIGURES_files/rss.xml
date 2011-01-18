@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>PAINTINGS</title>
+    <link>http://valwright.com/valwright.com/FIGURES.html</link>
+    <description>PAINTINGS</description>
+    <item>
+      <title>Summer Sun</title>
+      <link>http://valwright.com/valwright.com/FIGURES.html#0</link>
+      <guid isPermaLink="false">aeb28b7e-b5d6-4631-8809-b08dc66efacc</guid>
+      <enclosure url="http://valwright.com/valwright.com/FIGURES_files/Media/IMG_0762/IMG_0762.jpg" length="140479" type="image/jpeg"/>
+      <iphoto:thumbnail>http://valwright.com/valwright.com/FIGURES_files/Media/IMG_0762/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://valwright.com/valwright.com/FIGURES_files/Media/IMG_0762/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_81_35&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Summer Sun&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>
