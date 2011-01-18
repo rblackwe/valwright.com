@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:CB93FB0D-5299-45D4-A25E-0E761FA2CA9F</id>
+ <title>Page list Atom feed</title>
+ <updated>2010-09-04T16:31:20-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:12746AB4-922E-4322-8A6F-6404C032F119</id>
+  <title>HOME</title>
+  <title xmlns="urn:iweb:">HOME</title>
+  <in-navbar xmlns="urn:iweb:">12746AB4-922E-4322-8A6F-6404C032F119</in-navbar>
+  <link rel="alternate" href="HOME.html"/>
+  <updated>2010-09-04T16:31:20.001-04:00</updated>
+  <content>HOME</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:9085026D-48B0-466F-ADEF-DF2F713FBCBD</id>
+  <title>ABOUT THE ARTIST</title>
+  <title xmlns="urn:iweb:">ABOUT THE ARTIST</title>
+  <in-navbar xmlns="urn:iweb:">9085026D-48B0-466F-ADEF-DF2F713FBCBD</in-navbar>
+  <link rel="alternate" href="ABOUT_THE_ARTIST.html"/>
+  <updated>2010-09-04T16:31:20.002-04:00</updated>
+  <content>ABOUT THE ARTIST</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:2DFF067F-DCA4-4277-902B-275927E195E0</id>
+  <title>LANDSCAPES</title>
+  <title xmlns="urn:iweb:">LANDSCAPES</title>
+  <in-navbar xmlns="urn:iweb:">2DFF067F-DCA4-4277-902B-275927E195E0</in-navbar>
+  <link rel="alternate" href="LANDSCAPES.html"/>
+  <updated>2010-09-04T16:31:20.003-04:00</updated>
+  <content>LANDSCAPES</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:E01CFF57-09D6-49AF-B121-85024D3FF98D</id>
+  <title>FLOWERS</title>
+  <title xmlns="urn:iweb:">FLOWERS</title>
+  <in-navbar xmlns="urn:iweb:">E01CFF57-09D6-49AF-B121-85024D3FF98D</in-navbar>
+  <link rel="alternate" href="FLOWERS.html"/>
+  <updated>2010-09-04T16:31:20.004-04:00</updated>
+  <content>FLOWERS</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:4D31EF7B-7BF8-4B8E-90DA-DA1C690C0ED8</id>
+  <title>WATERSCAPES</title>
+  <title xmlns="urn:iweb:">WATERSCAPES</title>
+  <in-navbar xmlns="urn:iweb:">4D31EF7B-7BF8-4B8E-90DA-DA1C690C0ED8</in-navbar>
+  <link rel="alternate" href="WATERSCAPES.html"/>
+  <updated>2010-09-04T16:31:20.005-04:00</updated>
+  <content>WATERSCAPES</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:403DF104-A7A8-4EE3-AFCD-F250D85F2C0E</id>
+  <title>OLD FLORIDA</title>
+  <title xmlns="urn:iweb:">OLD FLORIDA</title>
+  <in-navbar xmlns="urn:iweb:">403DF104-A7A8-4EE3-AFCD-F250D85F2C0E</in-navbar>
+  <link rel="alternate" href="OLD_FLORIDA.html"/>
+  <updated>2010-09-04T16:31:20.006-04:00</updated>
+  <content>OLD FLORIDA</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:02D51ECF-3258-4A47-A7C9-5103E499B841</id>
+  <title>SHOWS</title>
+  <title xmlns="urn:iweb:">SHOWS</title>
+  <in-navbar xmlns="urn:iweb:">02D51ECF-3258-4A47-A7C9-5103E499B841</in-navbar>
+  <link rel="alternate" href="SHOWS.html"/>
+  <updated>2010-09-04T16:31:20.007-04:00</updated>
+  <content>SHOWS</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:842817D2-2F77-4CA0-96F3-D3F7C4813237</id>
+  <title>CONTACT</title>
+  <title xmlns="urn:iweb:">CONTACT</title>
+  <in-navbar xmlns="urn:iweb:">842817D2-2F77-4CA0-96F3-D3F7C4813237</in-navbar>
+  <link rel="alternate" href="CONTACT.html"/>
+  <updated>2010-09-04T16:31:20.008-04:00</updated>
+  <content>CONTACT</content>
+ </entry>
+</feed>
