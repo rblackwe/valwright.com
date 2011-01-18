@@ -1,4 +1,4 @@
-// Created by iWeb 3.0.1 local-build-20100904
+// Created by iWeb 3.0.2 local-build-20110118
 
 function createMediaStream_id2()
 {return IWCreatePhotocast("http://valwright.com/valwright.com/SHOWS_files/rss.xml",true);}
