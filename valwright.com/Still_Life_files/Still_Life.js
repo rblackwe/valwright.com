@@ -1,4 +1,4 @@
-// Created by iWeb 3.0.2 local-build-20110121
+// Created by iWeb 3.0.2 local-build-20110130
 
 function createMediaStream_id2()
 {return IWCreatePhotocast("http://valwright.com/valwright.com/Still_Life_files/rss.xml",true);}
@@ -9,7 +9,7 @@ function layoutMediaGrid_id2(range)
 {createMediaStream_id2().load('http://valwright.com/valwright.com',function(imageStream)
 {if(range==null)
 {range=new IWRange(0,imageStream.length);}
-IWLayoutPhotoGrid('id2',new IWPhotoGridLayout(5,new IWSize(81,81),new IWSize(81,35),new IWSize(98,131),27,27,0,new IWSize(12,12)),new IWPhotoFrame([IWCreateImage('Still_Life_files/Hardcover_bevel_01.png'),IWCreateImage('Still_Life_files/Hardcover_bevel_02.png'),IWCreateImage('Still_Life_files/Hardcover_bevel_03.png'),IWCreateImage('Still_Life_files/Hardcover_bevel_06.png'),IWCreateImage('Still_Life_files/Hardcover_bevel_09.png'),IWCreateImage('Still_Life_files/Hardcover_bevel_08.png'),IWCreateImage('Still_Life_files/Hardcover_bevel_07.png'),IWCreateImage('Still_Life_files/Hardcover_bevel_04.png')],null,0,0.300000,0.000000,0.000000,0.000000,0.000000,17.000000,17.000000,17.000000,17.000000,403.000000,295.000000,403.000000,295.000000,null,null,null,0.100000),imageStream,range,null,null,1.000000,{backgroundColor:'rgb(0, 0, 0)',reflectionHeight:100,reflectionOffset:2,captionHeight:100,fullScreen:0,transitionIndex:2},'Media/slideshow.html','widget1','widget2','widget3')});}
+IWLayoutPhotoGrid('id2',new IWPhotoGridLayout(5,new IWSize(81,81),new IWSize(81,37),new IWSize(98,133),27,27,0,new IWSize(12,12)),new IWPhotoFrame([IWCreateImage('Still_Life_files/Hardcover_bevel_01.png'),IWCreateImage('Still_Life_files/Hardcover_bevel_02.png'),IWCreateImage('Still_Life_files/Hardcover_bevel_03.png'),IWCreateImage('Still_Life_files/Hardcover_bevel_06.png'),IWCreateImage('Still_Life_files/Hardcover_bevel_09.png'),IWCreateImage('Still_Life_files/Hardcover_bevel_08.png'),IWCreateImage('Still_Life_files/Hardcover_bevel_07.png'),IWCreateImage('Still_Life_files/Hardcover_bevel_04.png')],null,0,0.300000,0.000000,0.000000,0.000000,0.000000,17.000000,17.000000,17.000000,17.000000,403.000000,295.000000,403.000000,295.000000,null,null,null,0.100000),imageStream,range,null,null,1.000000,{backgroundColor:'rgb(0, 0, 0)',reflectionHeight:100,reflectionOffset:2,captionHeight:100,fullScreen:0,transitionIndex:2},'Media/slideshow.html','widget1','widget2','widget3')});}
 function relayoutMediaGrid_id2(notification)
 {var userInfo=notification.userInfo();var range=userInfo['range'];layoutMediaGrid_id2(range);}
 function onStubPage()
